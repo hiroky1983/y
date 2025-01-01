@@ -1,3 +1,4 @@
+"use cache";
 import Link from "next/link";
 import { Suspense } from "react";
 import Img from "../components/image";
